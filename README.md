@@ -20,7 +20,7 @@
 
   <p>
       <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-      <a href="#"><img alt="SpringBoot" src="https://custom-icon-badges.demolab.com/badge/springboot.png?logo=springboot_isym444&logoColor=white"></a>
+      <a href="#"><img alt="SpringBoot" src="https://custom-icon-badges.demolab.com/badge/Spring_Boot.svg?logo=spring_boot&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
