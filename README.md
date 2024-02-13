@@ -1,7 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&center=true&multiline=true&repeat=false&random=false&width=800&lines=Hi+%2F%2F+Hola+%2F%2F+%E4%BB%8A%E6%97%A5%E3%81%AF;Welcome+to+my+(isym444)+GitHub;Doctor+%26+Aspiring+SWE)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=isym444&center=true&theme=onedark-duo&hide_border=true&card_width=700)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=isym444&center=true&theme=onedark-duo&hide_border=true&card_width=700)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=isym444)
 
  <h3>👨‍💻 Programming and Markup Languages</h3>
 
@@ -43,8 +45,20 @@
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <!-- <a href="#"><img alt="Intellij" src="https://custom-icon-badges.demolab.com/badge/intellij.svg?logo=ij444&color=fcba03"></a> -->
+      <a href="#"><img alt="Intellij" src="https://custom-icon-badges.demolab.com/badge/Intellij-icon.svg?logo=ij444&color=fcba03"></a>
   </p>
 
+<a href="https://github.com/isym444/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=isym444&theme=gruvbox&show_icons=true&rank_icon=percentile" />
+</a>
+<a href="https://github.com/isym444">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isym444&theme=gruvbox&hide=CSS&layout=donut" />
+</a>
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isym444&theme=gruvbox&hide=CSS&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **isym444/isym444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
