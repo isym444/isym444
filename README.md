@@ -1,9 +1,14 @@
 ### Hi there 👋
-<div style="text-align: center;">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=isym444&theme=onedark-duo&hide_border=true&card_width=700" alt="GitHub Streak">
-    </a>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=isym444&theme=onedark-duo&hide_border=true&card_width=700" alt="GitHub Streak"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <!--
 **isym444/isym444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
