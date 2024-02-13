@@ -1,13 +1,5 @@
 ### Hi there 👋
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=isym444&theme=onedark-duo&hide_border=true&card_width=700" alt="GitHub Streak"/>
-      </a>
-    </td>
-  </tr>
-</table>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=isym444&theme=onedark-duo&hide_border=true&card_width=700)](https://git.io/streak-stats) 
 
 
 <!--
