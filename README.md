@@ -33,7 +33,7 @@
   <h3>💻 Software and Tools</h3>
 
   <p>
-      <a href="#"><img alt="Anki" src="https://custom-icon-badges.demolab.com/badge/Anki-icon.svg?logo=anki"></a>
+      <a href="#"><img alt="Anki" src="https://custom-icon-badges.demolab.com/badge/Anki-icon.svg?logo=anki&color=4a87e8"></a>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
       <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
       <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
