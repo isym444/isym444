@@ -1,5 +1,7 @@
 ### Hi there 👋
- [![GitHub Streak](https://streak-stats.demolab.com?user=isym444&theme=onedark-duo&hide_border=true&card_width=700)](https://git.io/streak-stats) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&pause=1000&center=true&multiline=true&repeat=false&random=false&width=800&lines=Hi+%2F%2F+Hola+%2F%2F+%E4%BB%8A%E6%97%A5%E3%81%AF;Welcome+to+my+(isym444)+GitHub;Doctor+%26+Aspiring+SWE)](https://git.io/typing-svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=isym444&center=true&theme=onedark-duo&hide_border=true&card_width=700)](https://git.io/streak-stats) 
 
 
 <!--
