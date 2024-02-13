@@ -1,6 +1,8 @@
 ### Hi there 👋
 <div style="text-align: center;">
-[![GitHub Streak](https://streak-stats.demolab.com?user=isym444&theme=onedark-duo&hide_border=true&card_width=700)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=isym444&theme=onedark-duo&hide_border=true&card_width=700" alt="GitHub Streak">
+    </a>
 </div>
 
 <!--
