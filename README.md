@@ -4,26 +4,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=isym444&center=true&theme=onedark-duo&hide_border=true&card_width=700)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=isym444)
-<table>
-<tr>
-<td width="30%" valign="top">
-
-**AtCoder Problems Solved:** 32  
-**AtCoder Rating:** 117  
-**Codeforces Rating:** 632  
-**USACO division:** Silver  
-**Japanese words:** 17604  
-**Portuguese words:** 563  
-
-</td>
-<td>
-
-![AtCoder Progression](problems_solved_over_time.png "AtCoder Progression")
-
-</td>
-</tr>
-</table>
-
 
  <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
@@ -76,6 +56,25 @@
 </a>
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 
+<table>
+<tr>
+<td width="30%" valign="top">
+
+**AtCoder Problems Solved:** 32  
+**AtCoder Rating:** 117  
+**Codeforces Rating:** 632  
+**USACO division:** Silver  
+**Japanese words:** 17604  
+**Portuguese words:** 563  
+
+</td>
+<td>
+
+![AtCoder Progression](problems_solved_over_time.png "AtCoder Progression")
+
+</td>
+</tr>
+</table>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isym444&theme=gruvbox&hide=CSS&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
