@@ -63,18 +63,19 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 <tr>
 <td width="30%" valign="top">
 
-<br>
+
 **AtCoder Problems Solved:** 32  
-<br>
+
 **AtCoder Rating:** 117  
-<br>
+
 **Codeforces Rating:** 632  
-<br>
+
 **USACO division:** Silver  
-<br>
+
 **Japanese words:** 17604  
-<br>
+
 **Portuguese words:** 563  
+
 </td>
 <td>
 
