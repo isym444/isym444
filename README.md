@@ -4,9 +4,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=isym444&center=true&theme=onedark-duo&hide_border=true&card_width=700)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=isym444)
+```
+AtCoder Problems Solved: 32
+```
+
 
  <h3>👨‍💻 Programming and Markup Languages</h3>
-
   <p>
       <a href="https://github.com/isym444"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aisym444+language%3Ac%2B%2B&type=code"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
