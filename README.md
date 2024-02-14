@@ -4,28 +4,26 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=isym444&center=true&theme=onedark-duo&hide_border=true&card_width=700)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=isym444)
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-<div>
+<table>
+<tr>
+<td>
 
-**AtCoder Problems Solved:** 32
+**AtCoder Problems Solved:** 32  
+**AtCoder Rating:** 117  
+**Codeforces Rating:** 632  
+**USACO division:** Silver  
+**Japanese words:** 17604  
+**Portuguese words:** 563  
 
-**AtCoder Rating:** 117
-
-**Codeforces Rating:** 632
-
-**USACO division:** Silver
-
-**Japanese words:** 17604
-
-**Portuguese words:** 563
-
-</div>
-<div>
+</td>
+<td>
 
 ![AtCoder Progression](problems_solved_over_time.png "AtCoder Progression")
 
-</div>
-</div>
+</td>
+</tr>
+</table>
+
  <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
       <a href="https://github.com/isym444"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
