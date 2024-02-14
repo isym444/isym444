@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=isym444)
 
-I am a Mexican-British medical doctor and aspiring software engineer. I have recently decided to take competitive programming seriously and try to improve my rating! To this end, I have included an AtCoder solved problem as well as rating tracker below for a bit of public accountability! These update daily together with my anki vocab counts for the languages I am currently learning.
+I am a Mexican-British medical doctor and aspiring software engineer. I have recently decided to try competitive programming seriously and do I best to improve my rating! To this end, I have included an AtCoder solved problem as well as rating tracker below for a bit of public accountability! These update daily together with my anki vocab counts for the languages I am currently learning.
 
  <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
@@ -24,6 +24,8 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
   <p>
       <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
       <a href="#"><img alt="SpringBoot" src="https://custom-icon-badges.demolab.com/badge/spring-boot-green.svg?logo=Spring_Boot&logoColor=green"></a>
+      <a href="#"><img alt="Mockito" src="https://custom-icon-badges.demolab.com/badge/Mockito-red.svg?logo=mockito"></a
+
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -65,17 +67,19 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 <td width="30%" valign="top">
 
 
-**AtCoder Problems Solved:** 32  
+AtCoder Problems Solved: 33
 
-**AtCoder Rating:** 117  
+AtCoder Rating: 117
 
-**Codeforces Rating:** 632  
+Codeforces Rating: 632
 
 **USACO division:** Silver  
 
-**Japanese words:** 17604  
+**JLPT passed:** N2
 
-**Portuguese words:** 563  
+Japanese words: 17604
+
+Portuguese words: 563
 
 </td>
 <td>
