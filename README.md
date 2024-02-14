@@ -58,17 +58,22 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 </a>
 <!-- <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
  -->
+<br>
 <table>
 <tr>
 <td width="30%" valign="top">
 
 **AtCoder Problems Solved:** 32  
+<br>
 **AtCoder Rating:** 117  
+<br>
 **Codeforces Rating:** 632  
+<br>
 **USACO division:** Silver  
+<br>
 **Japanese words:** 17604  
+<br>
 **Portuguese words:** 563  
-
 </td>
 <td>
 
