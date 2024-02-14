@@ -59,6 +59,7 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 <!-- <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
  -->
 <br>
+<br>
 <table>
 <tr>
 <td width="30%" valign="top">
@@ -84,6 +85,9 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 </td>
 </tr>
 </table>
+
+
+
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isym444&theme=gruvbox&hide=CSS&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
 
