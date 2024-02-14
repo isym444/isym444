@@ -13,6 +13,13 @@ Codeforces Rating: 632
 <br> 
 USACO division: Silver
 <br> 
+Japanese words: 17604
+<br>
+Portuguese words: 563
+<br>
+
+![AtCoder Progression](problems_solved_over_time.png "AtCoder Progression")
+
  <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
       <a href="https://github.com/isym444"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
