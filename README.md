@@ -6,6 +6,9 @@
 ![](https://komarev.com/ghpvc/?username=isym444)
 
 AtCoder Problems Solved: 32
+AtCoder Rating: 117
+Codeforces Rating: 632
+USACO division: Silver
 
  <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
