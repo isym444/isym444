@@ -4,10 +4,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=isym444&center=true&theme=onedark-duo&hide_border=true&card_width=700)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=isym444)
-```
-AtCoder Problems Solved: 32
-```
 
+AtCoder Problems Solved: 32
 
  <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
