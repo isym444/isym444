@@ -5,6 +5,8 @@
 
 ![](https://komarev.com/ghpvc/?username=isym444)
 
+I am a Mexican-British medical doctor and aspiring software engineer. I have recently decided to take competitive programming seriously and try to improve my rating! To this end, I have included an AtCoder solved problem as well as rating tracker below for a bit of public accountability! These update daily together with my anki vocab counts for the languages I am currently learning.
+
  <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
       <a href="https://github.com/isym444"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -54,8 +56,8 @@
 <a href="https://github.com/isym444">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isym444&theme=gruvbox&hide=CSS&layout=donut" />
 </a>
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-
+<!-- <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+ -->
 <table>
 <tr>
 <td width="30%" valign="top">

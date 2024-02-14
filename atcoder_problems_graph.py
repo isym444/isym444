@@ -13,7 +13,7 @@ plt.plot(data['Date'], data['Value'], marker='o', linestyle='-', color='#58a6ff'
 # Formatting the plot
 plt.xlabel('Date', color='white')
 plt.ylabel('Number of Problems Solved', color='white')
-plt.title('Problems Solved Over Time', color='white')
+plt.title('AtCoder Problems Solved Over Time', color='white')
 plt.grid(True, color='#343a40')  # Use a dark grid color
 
 # Format date on x-axis to DD/MM/YY
