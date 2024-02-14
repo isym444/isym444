@@ -1,11 +1,11 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&center=true&multiline=true&repeat=false&random=false&width=800&lines=Hi+%2F%2F+Hola+%2F%2F+%E4%BB%8A%E6%97%A5%E3%81%AF;Welcome+to+my+(isym444)+GitHub;Doctor+%26+Aspiring+SWE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&center=true&multiline=true&repeat=false&random=false&width=800&lines=Hi+%2F%2F+Hola+%2F%2F+%E4%BB%8A%E6%97%A5%E3%81%AF;Welcome+to+my+GitHub;Doctor+%26+Aspiring+SWE)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=isym444&center=true&theme=onedark-duo&hide_border=true&card_width=700)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=isym444)
 
-I am a Mexican-British medical doctor and aspiring software engineer. I have recently decided to try competitive programming seriously and do I best to improve my rating! To this end, I have included an AtCoder solved problem as well as rating tracker below for a bit of public accountability! These update daily together with my anki vocab counts for the languages I am currently learning.
+I am a Mexican-British medical doctor and aspiring software engineer. I have recently decided to try competitive programming seriously and do my best to improve my rating! To this end, I have included an AtCoder solved problem as well as rating tracker below for a bit of public accountability! These update daily together with my anki vocab counts for the languages I am currently learning.
 
  <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
