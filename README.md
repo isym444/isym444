@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=isym444)
 <table>
 <tr>
-<td>
+<td width="30%" valign="top">
 
 **AtCoder Problems Solved:** 32  
 **AtCoder Rating:** 117  
@@ -23,6 +23,7 @@
 </td>
 </tr>
 </table>
+
 
  <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
