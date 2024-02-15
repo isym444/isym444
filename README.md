@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=isym444)
 
-I am a Mexican-British medical doctor and aspiring software engineer. I have recently decided to try competitive programming seriously and do my best to improve my rating! To this end, I have included an AtCoder solved problem as well as rating tracker below for a bit of public accountability! These update daily together with my anki vocab counts for the languages I am currently learning.
+I am a Mexican-British medical doctor and aspiring software engineer. I have recently decided to try competitive programming seriously and do my best to improve my rating! To this end, I have included an AtCoder solved problem and rating tracker below for a bit of public accountability! These update daily together with my anki vocab counts for the languages I am currently learning.
 
  <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
@@ -16,7 +16,6 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
       <a href="https://github.com/search?q=user%3Aisym444+language%3Ac%2B%2B&type=code"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aisym444+language%3APython+&type=code"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Aisym444+language%3APython+&type=code"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Aisym444+language%3APython+&type=code"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
@@ -33,6 +32,7 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3Aisym444+language%3APython+&type=code"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
@@ -67,7 +67,7 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 <td width="30%" valign="top">
 
 
-AtCoder Problems Solved: 33
+AtCoder Problems Solved: 34
 
 AtCoder Rating: 117
 
@@ -77,7 +77,7 @@ Codeforces Rating: 632
 
 **JLPT passed:** N2
 
-Japanese words: 17604
+Japanese words: 17609
 
 Portuguese words: 563
 
