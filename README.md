@@ -67,19 +67,19 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 <td width="30%" valign="top">
 
 
-**AtCoder Problems Solved:** 34
+AtCoder Problems Solved: 35
 
-**AtCoder Rating:** 117
+AtCoder Rating: 117
 
-**Codeforces Rating:** 632
+Codeforces Rating: 632
 
 **USACO division:** Silver  
 
 **JLPT passed:** N2
 
-**Japanese words:** 17609
+Japanese words: 17615
 
-**Portuguese words:** 563
+Portuguese words: 563
 
 </td>
 <td>
