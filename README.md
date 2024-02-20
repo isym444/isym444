@@ -84,9 +84,7 @@ Portuguese words: 563
 </td>
 <td>
 
-![AtCoder Progression](problems_solved_over_time.png "AtCoder Progression")
-
-</td>
+![AtCoder Progression](problems_solved_over_time20022024.png "AtCoder Progression")</td>
 </tr>
 </table>
 

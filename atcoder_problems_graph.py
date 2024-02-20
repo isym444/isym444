@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.dates import DateFormatter
+from datetime import datetime
 
 # Read data from CSV
 data = pd.read_csv('/Users/samir/Desktop/GithubReadme/isym444/your_file.csv', parse_dates=['Date'])
@@ -25,7 +26,24 @@ plt.gca().tick_params(colors='white')  # Set the color of ticks to white
 plt.xticks(rotation=45)
 
 # Save the figure
-plt.savefig('problems_solved_over_time.png', transparent=True)
+#plt.savefig(f'/Users/samir/Desktop/GithubReadme/isym444/problems_solved_over_time{datetime.now().strftime("%d%m%Y")}.png', transparent=True)
+plt.savefig(f'/Users/samir/Desktop/GithubReadme/isym444/problems_solved_over_time.png', transparent=True)
+
+file_path = "/Users/samir/Desktop/GithubReadme/isym444/README.md"
+
+with open(file_path, "r") as file:
+    lines = file.readlines()
+for i, line in enumerate(lines):
+    if '![AtCoder Progression](problems_solved_over_time' in line:
+        print("found line")
+        temp = datetime.now().strftime("%d%m%Y")
+        print(temp)
+        lines[i] = f'![AtCoder Progression](problems_solved_over_time{temp}.png "AtCoder Progression")'
+        updated = True
+        with open(file_path, "w") as file:
+            file.writelines(lines)
+            print("Updated the Markdown file with the new atcoder stats.")
+
 
 # Close the plot
 plt.close()
