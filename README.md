@@ -84,9 +84,7 @@ Portuguese words: 563
 </td>
 <td>
 
-![AtCoder Progression](problems_solved_over_time21022024.png "AtCoder Progression")</table>
-
-
+![AtCoder Progression](problems_solved_over_time22022024.png "AtCoder Progression")
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isym444&theme=gruvbox&hide=CSS&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->

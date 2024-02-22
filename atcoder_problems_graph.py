@@ -1,7 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.dates import DateFormatter
-from datetime import datetime
+from datetime import datetime, timedelta
+import os
 
 # Read data from CSV
 data = pd.read_csv('/Users/samir/Desktop/GithubReadme/isym444/your_file.csv', parse_dates=['Date'])
@@ -27,8 +28,10 @@ plt.xticks(rotation=45)
 
 # Save the figure
 #plt.savefig(f'/Users/samir/Desktop/GithubReadme/isym444/problems_solved_over_time{datetime.now().strftime("%d%m%Y")}.png', transparent=True)
-plt.savefig(f'/Users/samir/Desktop/GithubReadme/isym444/problems_solved_over_time.png', transparent=True)
-
+temp = datetime.now().strftime("%d%m%Y")
+temp2 = (datetime.now()-timedelta(days=1)).strftime("%d%m%Y")
+plt.savefig(f'/Users/samir/Desktop/GithubReadme/isym444/problems_solved_over_time{temp}.png', transparent=True)
+os.remove(f'/Users/samir/Desktop/GithubReadme/isym444/problems_solved_over_time{temp2}.png')
 file_path = "/Users/samir/Desktop/GithubReadme/isym444/README.md"
 
 with open(file_path, "r") as file:
