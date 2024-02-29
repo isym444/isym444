@@ -67,11 +67,11 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 <td width="30%" valign="top">
 
 
-**AtCoder Problems Solved:** 66
+**AtCoder Problems Solved:** 72
 
 **AtCoder Rating:** 171
 
-**Codeforces Rating:** 974
+**Codeforces Rating:** 1029
 
 **USACO division:** Silver  
 
@@ -84,8 +84,7 @@ Portuguese words: 563
 </td>
 <td>
 
-![AtCoder Progression](problems_solved_over_time28022024.png "AtCoder Progression")<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isym444&theme=gruvbox&hide=CSS&layout=donut)](https://github.com/anuraghazra/github-readme-stats) -->
-
+![AtCoder Progression](problems_solved_over_time29022024.png "AtCoder Progression")
 <!--
 **isym444/isym444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
