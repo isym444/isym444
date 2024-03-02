@@ -84,7 +84,7 @@ Portuguese words: 563
 </td>
 <td>
 
-![AtCoder Progression](problems_solved_over_time29022024.png "AtCoder Progression")
+![AtCoder Progression](problems_solved_over_time02032024.png "AtCoder Progression")
 <!--
 **isym444/isym444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
