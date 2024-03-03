@@ -67,7 +67,7 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 <td width="30%" valign="top">
 
 
-**AtCoder Problems Solved:** 77
+**AtCoder Problems Solved:** 83
 
 **AtCoder Rating:** 171
 
@@ -84,8 +84,7 @@ Portuguese words: 563
 </td>
 <td>
 
-![AtCoder Progression](problems_solved_over_time02032024.png "AtCoder Progression")
-<!--
+![AtCoder Progression](problems_solved_over_time03032024.png "AtCoder Progression")<!--
 **isym444/isym444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
