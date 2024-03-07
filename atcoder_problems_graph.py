@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 from matplotlib.dates import DateFormatter
 from datetime import datetime, timedelta
 import os
+import glob
 
 # Read data from CSV
 data = pd.read_csv('/Users/samir/Desktop/GithubReadme/isym444/your_file.csv', parse_dates=['Date'])
@@ -26,12 +27,29 @@ plt.gca().tick_params(colors='white')  # Set the color of ticks to white
 # Rotate date labels for better readability
 plt.xticks(rotation=45)
 
+
+# Specify the directory path where your files are located
+directory_path = '/Users/samir/Desktop/GithubReadme/isym444'
+
+# Construct the pattern to match files starting with 'problems_solved_over_time'
+pattern = os.path.join(directory_path, 'problems_solved_over_time*.png')
+
+# Use glob to find all files matching the pattern
+matching_files = glob.glob(pattern)
+
+for file_path in matching_files:
+    try:
+        os.remove(file_path)
+        print(f"Deleted {file_path}")
+    except Exception as e:
+        print(f"Error deleting {file_path}: {e}")
+
 # Save the figure
 #plt.savefig(f'/Users/samir/Desktop/GithubReadme/isym444/problems_solved_over_time{datetime.now().strftime("%d%m%Y")}.png', transparent=True)
 temp = datetime.now().strftime("%d%m%Y")
 temp2 = (datetime.now()-timedelta(days=1)).strftime("%d%m%Y")
+# os.remove(f'/Users/samir/Desktop/GithubReadme/isym444/problems_solved_over_time{temp2}.png')
 plt.savefig(f'/Users/samir/Desktop/GithubReadme/isym444/problems_solved_over_time{temp}.png', transparent=True)
-os.remove(f'/Users/samir/Desktop/GithubReadme/isym444/problems_solved_over_time{temp2}.png')
 file_path = "/Users/samir/Desktop/GithubReadme/isym444/README.md"
 
 with open(file_path, "r") as file:
