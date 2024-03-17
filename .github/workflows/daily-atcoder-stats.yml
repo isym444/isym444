@@ -19,22 +19,26 @@ jobs:
         python-version: '3.8'
 
     - name: Install dependencies
-      run: |
-        pip install -r requirements.txt
+      run: pip install -r requirements.txt
+      working-directory: ./ # Specify the directory where requirements.txt is located
 
     - name: Run atcoder_stats.py
       run: python atcoder_stats.py
+      working-directory: ./ # Specify the working directory if different from the root
 
     - name: Run atcoder_problems_graph.py
       run: python atcoder_problems_graph.py
+      working-directory: ./ # Specify the working directory if different from the root
 
     - name: Configure git user
       run: |
         git config --global user.name 'GitHub Action'
         git config --global user.email 'ian.yep96@gmail.com'
+      working-directory: ./ # Specify the working directory if different from the root
 
     - name: Commit changes
       run: |
         git add .
         git commit -m "Automated update from GitHub Actions" -a || echo "No changes to commit"
         git push
+      working-directory: ./ # Specify the working directory if different from the root
