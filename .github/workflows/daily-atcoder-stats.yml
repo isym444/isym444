@@ -1,0 +1,40 @@
+name: Run AtCoder Stats and Graph
+
+on:
+  schedule:
+    # Runs at 20:30 UTC every day
+    - cron: '38 20 * * *'
+
+jobs:
+  run-scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.8'
+
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+
+    - name: Run atcoder_stats.py
+      run: python atcoder_stats.py
+
+    - name: Run atcoder_problems_graph.py
+      run: python atcoder_problems_graph.py
+
+    - name: Configure git user
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'ian.yep96@gmail.com'
+
+    - name: Commit changes
+      run: |
+        git add .
+        git commit -m "Automated update from GitHub Actions" -a || echo "No changes to commit"
+        git push
