@@ -6,7 +6,8 @@ import os
 import glob
 
 # Read data from CSV
-data = pd.read_csv('/Users/samir/Desktop/GithubReadme/isym444/your_file.csv', parse_dates=['Date'])
+data = pd.read_csv('your_file.csv', parse_dates=['Date'])
+
 
 # Plotting
 plt.style.use('dark_background')
@@ -29,10 +30,10 @@ plt.xticks(rotation=45)
 
 
 # Specify the directory path where your files are located
-directory_path = '/Users/samir/Desktop/GithubReadme/isym444'
+#directory_path = '/Users/samir/Desktop/GithubReadme/isym444'
 
 # Construct the pattern to match files starting with 'problems_solved_over_time'
-pattern = os.path.join(directory_path, 'problems_solved_over_time*.png')
+pattern = 'problems_solved_over_time*.png'
 
 # Use glob to find all files matching the pattern
 matching_files = glob.glob(pattern)
@@ -49,8 +50,8 @@ for file_path in matching_files:
 temp = datetime.now().strftime("%d%m%Y")
 temp2 = (datetime.now()-timedelta(days=1)).strftime("%d%m%Y")
 # os.remove(f'/Users/samir/Desktop/GithubReadme/isym444/problems_solved_over_time{temp2}.png')
-plt.savefig(f'/Users/samir/Desktop/GithubReadme/isym444/problems_solved_over_time{temp}.png', transparent=True)
-file_path = "/Users/samir/Desktop/GithubReadme/isym444/README.md"
+plt.savefig(f'problems_solved_over_time{temp}.png', transparent=True)
+file_path = "README.md"
 
 with open(file_path, "r") as file:
     lines = file.readlines()
