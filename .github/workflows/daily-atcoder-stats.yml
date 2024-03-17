@@ -3,7 +3,7 @@ name: Run AtCoder Stats and Graph
 on:
   schedule:
     # Runs at 20:30 UTC every day
-    - cron: '05 21 * * *'
+    - cron: '15 21 * * *'
 
 jobs:
   run-scripts:
