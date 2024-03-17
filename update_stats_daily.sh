@@ -5,6 +5,8 @@ cd /Users/samir/Desktop/GithubReadme/isym444
 
 # Optional: Add all changes to staging
 git add *
+git add .
+git add -A
 
 # Optional: Commit changes with a generic message
 git commit -m "Updated stats"
