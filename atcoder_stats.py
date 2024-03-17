@@ -3,6 +3,8 @@ import json
 from datetime import datetime
 import os
 
+print(os.getcwd())
+
 # API endpoint
 url = "https://kenkoooo.com/atcoder/atcoder-api/v3/user/ac_rank?user=isym444"
 url2 = "https://atcoder.jp/users/isym444/history/json"
@@ -43,7 +45,7 @@ def get_codeforces_rating():
 cfrating = get_codeforces_rating()
 
 # Read the existing Markdown file
-file_path = "/Users/samir/Desktop/GithubReadme/isym444/README.md"
+file_path = "README.md"
 with open(file_path, "r") as file:
     lines = file.readlines()
 
@@ -105,5 +107,5 @@ def update_csv(file_path, x_value):
 
 # Example usage
 x = count
-csv_file_path = '/Users/samir/Desktop/GithubReadme/isym444/your_file.csv'
+csv_file_path = 'your_file.csv'
 update_csv(csv_file_path, x)
