@@ -109,3 +109,47 @@ def update_csv(file_path, x_value):
 x = count
 csv_file_path = 'your_file.csv'
 update_csv(csv_file_path, x)
+
+def get_accepted_problems_count2024(user_handle):
+    # Define the start of January 2024 in UNIX timestamp
+    start_of_january_2024 = int(datetime(2024, 1, 1).timestamp())
+
+    url = f"https://codeforces.com/api/user.status?handle={user_handle}"
+    response = requests.get(url)
+    data = response.json()
+
+    if data["status"] != "OK":
+        return "Failed to retrieve data"
+
+    accepted_problems = set()
+    for submission in data["result"]:
+        submission_time = submission["creationTimeSeconds"]
+        # Check if the submission is "Accepted" and after the start of January 2024
+        if submission["verdict"] == "OK" and submission_time >= start_of_january_2024:
+            problem_id = (
+                submission["problem"]["contestId"],
+                submission["problem"]["index"],
+            )
+            accepted_problems.add(problem_id)
+
+    return len(accepted_problems)
+
+# Example usage
+user_handle = "isym444"
+newcfproblemssolved = get_accepted_problems_count2024(user_handle)
+
+updated4 = False
+
+for i, line in enumerate(lines):
+    if "**Codeforces Problems Solved since Jan 2024:**" in line:
+        lines[i] = f"**Codeforces Problems Solved since Jan 2024:** {newcfproblemssolved}\n"
+        updated4 = True
+        break
+
+if updated4:
+    with open(file_path, "w") as file:
+        file.writelines(lines)
+    print("Updated the Markdown file with the new codeforces stats.")
+else:
+    print("The specified line was not found in the file.")
+

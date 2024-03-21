@@ -67,9 +67,11 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 <td width="30%" valign="top">
 
 
-**AtCoder Problems Solved:** 119
+**AtCoder Problems Solved:** 127
 
 **AtCoder Rating:** 245
+
+**Codeforces Problems Solved since Jan 2024:** 14
 
 **Codeforces Rating:** 1050
 
