@@ -67,13 +67,13 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 <td width="30%" valign="top">
 
 
-**AtCoder Problems Solved:** 177
+**AtCoder Problems Solved:** 180
 
-**AtCoder Rating:** 245
+**AtCoder Rating:** 333
 
-**Codeforces Problems Solved since Jan 2024:** 18
+**Codeforces Problems Solved since Jan 2024:** 20
 
-**Codeforces Rating:** 1076
+**Codeforces Rating:** 1098
 
 **USACO division:** Silver  
 
@@ -86,4 +86,4 @@ Portuguese words: 563
 </td>
 <td>
 
-![AtCoder Progression](problems_solved_over_time30032024.png "AtCoder Progression")
+![AtCoder Progression](problems_solved_over_time31032024.png "AtCoder Progression")
