@@ -73,7 +73,7 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 
 **Codeforces Problems Solved since Jan 2024:** 30
 
-**Codeforces Rating:** 1172
+**Codeforces Rating:** 1223
 
 **USACO division:** Silver  
 
@@ -86,4 +86,4 @@ Portuguese words: 563
 </td>
 <td>
 
-![AtCoder Progression](problems_solved_over_time09042024.png "AtCoder Progression")
+![AtCoder Progression](problems_solved_over_time10042024.png "AtCoder Progression")
