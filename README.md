@@ -69,11 +69,11 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 
 **AtCoder Problems Solved:** 251
 
-**AtCoder Rating:** 543 ![Atcoder Rating](https://badges.joonhyung.xyz/atcoder/isym444.svg)
+**AtCoder Rating:** 543
 
 **Codeforces Problems Solved since Jan 2024:** 30
 
-**Codeforces Rating:** 1228 ![Codeforces Rating](https://badges.joonhyung.xyz/codeforces/isym444.svg)
+**Codeforces Rating:** 1228
 
 **USACO division:** Silver  
 
@@ -86,4 +86,4 @@ Portuguese words: 563
 </td>
 <td>
 
-![AtCoder Progression](problems_solved_over_time20052024.png "AtCoder Progression")
+![AtCoder Progression](problems_solved_over_time21052024.png "AtCoder Progression")
