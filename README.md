@@ -7,9 +7,7 @@
 
 I am a Mexican-British medical doctor and aspiring software engineer. I have recently decided to try competitive programming seriously and do my best to improve my rating! To this end, I have included an AtCoder solved problem and rating tracker below for a bit of public accountability! These update daily together with my anki vocab counts for the languages I am currently learning.
 
-
-- 🌐 [Atcoder](https://atcoder.jp/users/isym444): ![Atcoder Rating](https://badges.joonhyung.xyz/atcoder/isym444.svg)
-- 👨‍💻 [Codeforces](https://codeforces.com/profile/isym444): ![Codeforces Rating](https://badges.joonhyung.xyz/codeforces/isym444.svg)
+🌐 [Atcoder](https://atcoder.jp/users/isym444): ![Atcoder Rating](https://badges.joonhyung.xyz/atcoder/isym444.svg) 👨‍💻 [Codeforces](https://codeforces.com/profile/isym444): ![Codeforces Rating](https://badges.joonhyung.xyz/codeforces/isym444.svg)
 
  <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
