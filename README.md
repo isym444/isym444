@@ -81,11 +81,13 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 
 **JLPT passed:** N2
 
-Japanese words: 17718
+**Japanese words:** 17723
 
-Portuguese words: 627
+**Portuguese words:** 627
 
 </td>
 <td>
 
 ![AtCoder Progression](problems_solved_over_time03082024.png "AtCoder Progression")
+![Graph Image](graph.png)
+![Graph Image](graph_PT.png)
