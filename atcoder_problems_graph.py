@@ -60,7 +60,7 @@ for i, line in enumerate(lines):
         print("found line")
         temp = datetime.now().strftime("%d%m%Y")
         print(temp)
-        lines[i] = f'![AtCoder Progression](problems_solved_over_time{temp}.png "AtCoder Progression")'
+        lines[i] = f'![AtCoder Progression](problems_solved_over_time{temp}.png "AtCoder Progression")\n'
         updated = True
         with open(file_path, "w") as file:
             file.writelines(lines)
