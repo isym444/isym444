@@ -81,9 +81,9 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 
 **JLPT passed:** N2
 
-**Japanese words:** 17785
+**Japanese words:** 17790
 
-**Portuguese words:** 633
+**Portuguese words:** 635
 
 </td>
 <td>
