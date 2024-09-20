@@ -83,7 +83,7 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 
 **Japanese words:** 17790
 
-**Portuguese words:** 635
+**Portuguese words:** 633
 
 </td>
 <td>
