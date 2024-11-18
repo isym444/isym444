@@ -1,7 +1,9 @@
 #!/bin/sh
 
 # Navigate to the repository directory
-cd /Users/samir/Desktop/GithubReadme/isym444
+cd /home/iym444/Desktop/anki-vocab-totals-transfer-to-linux/isym444
+
+git pull
 
 # Optional: Add all changes to staging
 git add *
