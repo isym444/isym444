@@ -4,3 +4,4 @@
 cd /home/iym444/Desktop/anki-vocab-totals-transfer-to-linux/isym444
 
 git config pull.rebase true
+git pull --force
