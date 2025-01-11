@@ -88,7 +88,7 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 </td>
 <td>
 
-![AtCoder Progression](problems_solved_over_time10012025.png "AtCoder Progression")
+![AtCoder Progression](problems_solved_over_time11012025.png "AtCoder Progression")
 
 ![Graph Image](graph.png)
 
