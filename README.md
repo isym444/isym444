@@ -69,9 +69,9 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 <td width="30%" valign="top">
 
 
-**AtCoder Problems Solved:** 616
+**AtCoder Problems Solved:** 621
 
-**AtCoder Rating:** 772
+**AtCoder Rating:** 828
 
 **Codeforces Problems Solved since Jan 2024:** 35
 
@@ -88,7 +88,7 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 </td>
 <td>
 
-![AtCoder Progression](problems_solved_over_time11012025.png "AtCoder Progression")
+![AtCoder Progression](problems_solved_over_time12012025.png "AtCoder Progression")
 
 ![Graph Image](graph.png)
 
