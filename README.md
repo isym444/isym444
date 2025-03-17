@@ -90,6 +90,8 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 
 ![AtCoder Progression](problems_solved_over_time17032025.png "AtCoder Progression")
 
+![ThemeCP Progression](contest_performance.png)
+
 ![Graph Image](graph.png)
 
 ![Graph Image](graph_PT.png)

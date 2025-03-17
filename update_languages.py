@@ -87,7 +87,7 @@ def years_since_start(date):
     return f"{years} years {months} months"
 
 ax_top = ax.secondary_xaxis('top')
-ax_top.set_xlabel('Years Since 2017-10', fontsize=14)
+ax_top.set_xlabel('Years Since starting to learn Japanese', fontsize=14)
 ax_top.set_xticks(df["Date"])
 ax_top.set_xticklabels([years_since_start(d) for d in df["Date"]], rotation=45, ha='left')
 
