@@ -14,6 +14,7 @@ response = requests.get(url)
 if response.status_code == 200:
     json_data = response.json()
     count = json_data.get("count", "N/A")  # Extracts only the 'count' value
+    print(count)
 else:
     print("Failed to retrieve data: Status code", response.status_code)
     exit()
@@ -22,6 +23,7 @@ response2 = requests.get(url2)
 if response2.status_code == 200:
     json_data = response2.json()
     rating = json_data[-1]['NewRating'] # Extracts only the 'rating' value
+    print(rating)
 else:
     print("Failed to retrieve data: Status code", response2.status_code)
     exit()
@@ -107,7 +109,8 @@ def update_csv(file_path, x_value):
 
 # Example usage
 x = count
-csv_file_path = 'your_file.csv'
+# csv_file_path = 'your_file.csv'
+csv_file_path = 'atcoder_problems_solved.csv'
 update_csv(csv_file_path, x)
 
 def get_accepted_problems_count2024(user_handle):

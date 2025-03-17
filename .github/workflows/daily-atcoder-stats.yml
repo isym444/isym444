@@ -31,6 +31,10 @@ jobs:
       run: python atcoder_problems_graph.py
       working-directory: ./ # Specify the working directory if different from the root
 
+    - name: Run update_languages.py
+      run: python update_languages.py
+      working-directory: ./ # Specify the working directory if different from the root
+
     - name: Configure git user
       run: |
         git config --global user.name 'GitHub Action'
