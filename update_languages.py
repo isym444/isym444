@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from matplotlib.ticker import MaxNLocator
 
 # Fetch data from the API
-response = requests.get("http://10.134.112.24:8000/nihongo")
+response = requests.get("http://ankicounts.isym.uk/nihongo")
 data = response.json()
 vocab_count = data["known_cards"]
 
