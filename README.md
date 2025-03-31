@@ -71,24 +71,24 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 
 **AtCoder Problems Solved:** 667
 
-**AtCoder Rating:** 832
+**AtCoder Rating:** 830
 
-**Codeforces Problems Solved since Jan 2024:** 129
+**Codeforces Problems Solved since Jan 2024:** 139
 
-**Codeforces Rating:** 1210
+**Codeforces Rating:** 1250
 
 **USACO division:** Silver  
 
 **JLPT passed:** N2
 
-**Japanese words:** 18602
+**Japanese words:** 18642
 
 **Portuguese words:** 677
 
 </td>
 <td>
 
-![AtCoder Progression](problems_solved_over_time27032025.png "AtCoder Progression")
+![AtCoder Progression](problems_solved_over_time31032025.png "AtCoder Progression")
 
 ![ThemeCP Progression](contest_performance.png)
 
