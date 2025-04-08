@@ -69,7 +69,7 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 <td width="30%" valign="top">
 
 
-**AtCoder Problems Solved:** 674
+**AtCoder Problems Solved:** 687
 
 **AtCoder Rating:** 809
 
@@ -81,14 +81,14 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 
 **JLPT passed:** N2
 
-**Japanese words:** 18682
+**Japanese words:** 18692
 
 **Portuguese words:** 677
 
 </td>
 <td>
 
-![AtCoder Progression](problems_solved_over_time07042025.png "AtCoder Progression")
+![AtCoder Progression](problems_solved_over_time08042025.png "AtCoder Progression")
 
 ![ThemeCP Progression](contest_performance.png)
 
