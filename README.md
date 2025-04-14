@@ -73,7 +73,7 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 
 **AtCoder Rating:** 779
 
-**Codeforces Problems Solved since Jan 2024:** 180
+**Codeforces Problems Solved since Jan 2024:** 185
 
 **Codeforces Rating:** 1147
 
@@ -81,14 +81,14 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 
 **JLPT passed:** N2
 
-**Japanese words:** 18727
+**Japanese words:** 18732
 
 **Portuguese words:** 677
 
 </td>
 <td>
 
-![AtCoder Progression](problems_solved_over_time13042025.png "AtCoder Progression")
+![AtCoder Progression](problems_solved_over_time14042025.png "AtCoder Progression")
 
 ![ThemeCP Progression](contest_performance.png)
 
