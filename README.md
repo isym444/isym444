@@ -1,4 +1,3 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&center=true&multiline=true&repeat=false&random=false&width=800&lines=Hi+%2F%2F+Hola+%2F%2F+%E4%BB%8A%E6%97%A5%E3%81%AF;Welcome+to+my+GitHub;Doctor+%26+Aspiring+SWE)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=isym444&center=true&theme=onedark-duo&hide_border=true&card_width=700)](https://git.io/streak-stats)
@@ -68,7 +67,6 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 <tr>
 <td width="30%" valign="top">
 
-
 **AtCoder Problems Solved:** 692
 
 **AtCoder Rating:** 779
@@ -77,9 +75,9 @@ I am a Mexican-British medical doctor and aspiring software engineer. I have rec
 
 **Codeforces Rating:** 1220
 
-**USACO division:** Silver  
+**USACO division:** Silver
 
-**JLPT passed:** N2
+**JLPT passed:** N1
 
 **Japanese words:** 18742
 
