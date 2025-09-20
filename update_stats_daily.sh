@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # Navigate to the repository directory
-cd /home/iym444/Desktop/anki-vocab-totals-transfer-to-linux/isym444
+cd /home/iym444/Desktop/programming/isym444
 
 git pull
 
