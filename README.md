@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=isym444)
 
-I am a Mexican-British medical doctor and aspiring software engineer. I have recently decided to try competitive programming seriously and do my best to improve my rating! To this end, I have included an AtCoder solved problem and rating tracker below for a bit of public accountability! These update daily together with my anki vocab counts for the languages I am currently learning.
+Hi! I am a Mexican-British software engineer and medical doctor. I enjoy competitive programming, learning languages and classical music.
 
 🌐 [My Atcoder Account](https://atcoder.jp/users/isym444): ![Atcoder Rating](https://badges.joonhyung.xyz/atcoder/isym444.svg) 👨‍💻 [My Codeforces Account](https://codeforces.com/profile/isym444): ![Codeforces Rating](https://badges.joonhyung.xyz/codeforces/isym444.svg)
 
