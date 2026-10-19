@@ -255,7 +255,7 @@ def build_block(summary, cses, vocab, charts):
     if cses and cses["total"]:
         cells["CSES"] = f"**{cses['solved']}** / {cses['total']}<br>{cses['solved'] * 100 // cses['total']}% of the set"
     for lang, label in (("nihongo", "日本語"), ("pt", "Português")):
-        if lang in vocab:
+        if vocab.get(lang, {}).get("total_incl_pre_anki", 0) > 0:  # 0 means the deck wasn't found, not "no words"
             extra = f"<br>JLPT {STATIC_FACTS['jlpt']}" if lang == "nihongo" else ""
             cells[label] = f"**{vocab[lang]['total_incl_pre_anki']:,}** words{extra}"
     lines = [
@@ -340,7 +340,7 @@ def main() -> int:
     languages = {}
     for lang in vocab:
         rows = api.maybe("/history/vocab", language=lang, group_by="week") or []
-        if len(rows) >= 2:
+        if len(rows) >= 2 and rows[-1]["total_incl_pre_anki"] > 0:
             languages[LANGUAGE_NAMES.get(lang, lang.title())] = rows
     add("languages", languages, lambda: chart_languages(languages))
 
