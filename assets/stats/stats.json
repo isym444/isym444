@@ -1,0 +1,39 @@
+{
+ "updated": "2026-10-19",
+ "atcoder": {
+  "solved": 1155,
+  "rating": 922,
+  "peak": 949,
+  "contests": 118
+ },
+ "codeforces": {
+  "solved": 519,
+  "rating": 1264,
+  "peak": 1371,
+  "contests": 34
+ },
+ "themecp": {
+  "solved": 102,
+  "rating": 1146,
+  "peak": 1207,
+  "contests": 37
+ },
+ "cses": {
+  "solved": 69,
+  "total": 400
+ },
+ "words": {
+  "Japanese": 19074,
+  "Chinese": 2019
+ },
+ "usaco": "Silver",
+ "jlpt": "N1",
+ "charts": [
+  "cses",
+  "difficulty-atcoder",
+  "difficulty-codeforces",
+  "languages",
+  "ratings",
+  "solved-over-time"
+ ]
+}
