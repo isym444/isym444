@@ -123,7 +123,34 @@ English (native) · Español (native) · 日本語 (JLPT N1) · Français (B2) �
 <!-- STATS:START -->
 ## 📈 Live stats
 
-_Updating on the next scheduled run._
+<sub>Pulled daily from my self-hosted study-progress API. Last updated 2026-10-19.</sub>
+
+| AtCoder | Codeforces | CSES | 日本語 | Português |
+|:---:|:---:|:---:|:---:|:---:|
+| **1,155** solved<br>rating **922** (peak 949) | **519** solved<br>rating **1,264** (peak 1,371) | **69** / 400<br>17% of the set | **19,074** words<br>JLPT N1 | **0** words |
+
+**USACO:** Silver · **ThemeCP virtual rating:** 1,146 over 37 contests
+
+<p align="center">
+<img src="assets/stats/solved-over-time.png" alt="Problems solved over time" width="49%" />
+<img src="assets/stats/ratings.png" alt="Contest rating over time" width="49%" />
+</p>
+
+<p align="center">
+<img src="assets/stats/difficulty-atcoder.png" alt="AtCoder problem difficulty" width="100%" />
+</p>
+
+<p align="center">
+<img src="assets/stats/difficulty-codeforces.png" alt="Codeforces problem difficulty" width="100%" />
+</p>
+
+<p align="center">
+<img src="assets/stats/cses.png" alt="CSES problem set progress" width="100%" />
+</p>
+
+<p align="center">
+<img src="assets/stats/languages.png" alt="Vocabulary growth" width="100%" />
+</p>
 <!-- STATS:END -->
 
 <div align="center">
