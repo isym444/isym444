@@ -1,95 +1,138 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2000&center=true&multiline=true&repeat=false&random=false&width=800&lines=Hi+%2F%2F+Hola+%2F%2F+%E4%BB%8A%E6%97%A5%E3%81%AF;Welcome+to+my+GitHub;Doctor+%26+Aspiring+SWE)](https://git.io/typing-svg)
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=isym444&center=true&theme=onedark-duo&hide_border=true&card_width=700)](https://git.io/streak-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&center=true&vCenter=true&width=700&height=60&lines=Hi+%2F%2F+Hola+%2F%2F+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;Software+Engineer+%40+Barclays;Ex-NHS+doctor+%C2%B7+Cambridge+MB+BChir;BSc+Software+Engineering+%C2%B7+University+of+Glasgow)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=isym444)
+**Mexican-British software engineer, ex-NHS medical doctor and competitive programmer**
 
-Hi! I am a Mexican-British software engineer and medical doctor. I enjoy competitive programming, learning languages and classical music.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ian_Samir_Yep_Manzano-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-samir-yep-manzano-5376107b)
+[![AtCoder](https://badges.joonhyung.xyz/atcoder/isym444.svg)](https://atcoder.jp/users/isym444)
+[![Codeforces](https://badges.joonhyung.xyz/codeforces/isym444.svg)](https://codeforces.com/profile/isym444)
+[![Followers](https://img.shields.io/github/followers/isym444?label=Followers&logo=github&style=flat)](https://github.com/isym444?tab=followers)
 
-🌐 [My Atcoder Account](https://atcoder.jp/users/isym444): ![Atcoder Rating](https://badges.joonhyung.xyz/atcoder/isym444.svg) 👨‍💻 [My Codeforces Account](https://codeforces.com/profile/isym444): ![Codeforces Rating](https://badges.joonhyung.xyz/codeforces/isym444.svg)
+</div>
 
- <h3>👨‍💻 Programming and Markup Languages</h3>
-  <p>
-      <a href="https://github.com/isym444"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Aisym444+language%3Ac%2B%2B&type=code"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Aisym444+language%3Ac%2B%2B&type=code"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Aisym444+language%3Ac%2B%2B&type=code"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Aisym444+language%3Ac%2B%2B&type=code"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Aisym444+language%3APython+&type=code"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Aisym444+language%3APython+&type=code"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
-  </p>
+---
 
-  <h3>🧰 Frameworks and Libraries</h3>
+## 👋 About
 
-  <p>
-      <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-      <a href="#"><img alt="SpringBoot" src="https://custom-icon-badges.demolab.com/badge/spring-boot-green.svg?logo=Spring_Boot&logoColor=green"></a>
-      <a href="#"><img alt="Mockito" src="https://custom-icon-badges.demolab.com/badge/Mockito-red.svg?logo=mockito"></a
+I'm a full-stack software engineer on the legal technology team at **Barclays** in Glasgow, building contract management, regulatory review and automated drafting systems. I'm also on track for a first in **BSc Software Engineering at the University of Glasgow** (As in all courses, theoretical computer science track).
 
-  </p>
+Before software I worked as a **doctor in the NHS** (St Thomas' and Guy's, London) after graduating in Medicine from the **University of Cambridge**. I now build things where those two worlds meet, and I compete in algorithmic programming in my spare time.
 
-  <h3>🗄️ Databases and Cloud Hosting</h3>
+## 💼 Experience
 
-  <p>
-      <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Aisym444+language%3APython+&type=code"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  </p>
+**Software Engineer · Barclays** <sub>2023 – present</sub><br />
+Full-stack on a legal tech team: contract management, triage and review of laws, rules and regulations, an automated first-draft contract generator and reference-data synchronisation. Angular, Spring Boot, Kafka, Kubernetes.
 
-  <h3>💻 Software and Tools</h3>
+**Medical Doctor · National Health Service** <sub>2021 – 2023</sub><br />
+Cardiology, general surgery, geriatrics, internal medicine, GP and haematology at St Thomas' and Guy's Hospitals, London.
 
-  <p>
-      <a href="#"><img alt="Anki" src="https://custom-icon-badges.demolab.com/badge/Anki-icon.svg?logo=anki&color=4a87e8"></a>
-      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-      <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
-      <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <!-- <a href="#"><img alt="Intellij" src="https://custom-icon-badges.demolab.com/badge/intellij.svg?logo=ij444&color=fcba03"></a> -->
-      <a href="#"><img alt="Intellij" src="https://custom-icon-badges.demolab.com/badge/Intellij-icon.svg?logo=ij444&color=fcba03"></a>
-  </p>
+## 🛠️ Tech
 
-<a href="https://github.com/isym444/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=isym444&theme=gruvbox&show_icons=true&rank_icon=percentile" />
-</a>
-<a href="https://github.com/isym444">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isym444&theme=gruvbox&hide=CSS&layout=donut" />
-</a>
-<!-- <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
- -->
-<br>
-<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,java,spring,kafka,kubernetes,docker,gitlab,git&perline=9" alt="Day-to-day stack" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=py,cpp,kotlin,swift,cs,fastapi,postgres,supabase,godot,unity&perline=10" alt="Also use" />
+</p>
+
+**Day to day:** Angular (TypeScript) · Spring Boot (Java) · Kafka · Kubernetes & Docker · GitLab CI/CD · Git<br />
+**Also:** Python/FastAPI · C++ · Kotlin · Swift · Postgres/Supabase · Godot · Unity · AI-assisted development (Claude, Copilot, GitLab Duo)
+
+## 🚀 Featured projects
+
 <table>
 <tr>
-<td width="30%" valign="top">
+<td width="50%" valign="top">
 
-**AtCoder Problems Solved:** 692
+### 💷 [Net Worth Dashboard](https://github.com/isym444/net-worth-dashboard)
+A net-worth tracker I run myself: a **Spring Boot** service snapshots Trading212 and Crypto.com balances daily into **Postgres**, and serves an **Angular** dashboard plus **Android** (Jetpack Glance) and **macOS** (WidgetKit) widgets.
 
-**AtCoder Rating:** 779
-
-**Codeforces Problems Solved since Jan 2024:** 192
-
-**Codeforces Rating:** 1220
-
-**USACO division:** Silver
-
-**JLPT passed:** N1
-
-**Japanese words:** 18742
-
-**Portuguese words:** 677
+`Java` `Spring Boot` `Angular` `Kotlin` `Swift` `Docker`
 
 </td>
-<td>
+<td width="50%" valign="top">
 
-![AtCoder Progression](problems_solved_over_time16042025.png "AtCoder Progression")
+### 🩺 AgenticMD ([frontend](https://github.com/isym444/agentic_md_frontend) · [backend](https://github.com/isym444/agentic-md-backend))
+An AI medical scribe built at a hackathon: record a consultation, transcribe it and generate structured clinical notes. **Angular** front end, **FastAPI** backend, **Supabase**, speech-to-text and Gemini.
 
-![ThemeCP Progression](contest_performance.png)
+`Angular` `FastAPI` `Supabase` `Gemini`
 
-![Graph Image](graph.png)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-![Graph Image](graph_PT.png)
+### 🀄 [HSK Practice](https://github.com/isym444/hsk)
+A Mandarin HSK4 practice platform with an **Angular** app, a **FastAPI + SQL** backend for review statistics and deck ordering, and a Dockerised deployment on a VPS behind Traefik.
+
+`Angular` `FastAPI` `Postgres` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🥽 [Binary Lift VR](https://github.com/isym444/BinaryLiftVR)
+A **Meta Quest** game that teaches binary lifting: race an NPC to a tree's K-th ancestor by teleporting through power-of-two portals. Core logic is unit-tested outside Unity.
+
+`Unity` `C#` `OpenXR` `Algorithms`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏙️ [Stockopolis](https://github.com/isym444/2024DYHTG)
+A city-builder from the **Marshall Wace** hackathon on chains of events: manage oil, wind and investment banks while stochastic market volatility moves commodity prices. Built in 24 hours in **Godot**.
+
+`Godot` `GDScript` `Game design`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧮 [AtCoder solutions](https://github.com/isym444/atcoder_solutions)
+My solutions to AtCoder problems in **C++**, plus [custom templates and tooling](https://github.com/isym444/OnlineJudgeToolsCustomTemplates) for online judges.
+
+`C++` `Algorithms` `Data structures`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects</b></summary>
+
+- 🏎️ [Shifting Speedways](https://github.com/isym444/GUGameJam24): racing game from the Glasgow University Game Jam 2024 (Godot)
+- 🔊 [Japanese TTS browser extension](https://github.com/isym444/tts-browser-extension): reads copied Japanese text aloud, with keyboard controls
+- 📊 [Anki stats on the macOS menu bar](https://github.com/isym444/ankistatsonmenu): live remaining-reviews counter for chosen decks
+- ⌨️ [Neovim config](https://github.com/isym444/ubuntu_nvim_config) · [Personal website](https://github.com/isym444/personal_website)
+
+</details>
+
+## 🏆 Highlights
+
+- 🥇 **UKIEPC 1st place at Glasgow University** (top 15% across the UK and Ireland), qualifying for ICPC NWERC
+- 🟢 **AtCoder green** (28th in the UK, top 25% worldwide)
+- 🏛️ Former **president of the University of Glasgow competitive programming society**, with a university volunteering award
+- 📚 **2 publications** in international medical journals (Clinical Breast Cancer, Family Practice / Oxford University Press), **36 citations**
+- 🧬 **UK Biology Olympiad gold medal** and University of Cambridge violin and piano scholarships
+- 🎓 **JLPT N1** passed (日本語), plus a Tsuzuki Scholarship exchange year at the Japan University of Economics, Fukuoka
+
+## 🌍 Languages
+
+English (native) · Español (native) · 日本語 (JLPT N1) · Français (B2) · Português (CIPLE) · 中文 (HSK 3)
+
+<!-- STATS:START -->
+## 📈 Live stats
+
+_Updating on the next scheduled run._
+<!-- STATS:END -->
+
+<div align="center">
+
+<a href="https://github.com/isym444">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=isym444&theme=gruvbox&show_icons=true&rank_icon=percentile&hide_border=true" alt="GitHub stats" />
+</a>
+<a href="https://github.com/isym444">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isym444&theme=gruvbox&hide=CSS&layout=compact&hide_border=true" alt="Top languages" />
+</a>
+
+</div>
