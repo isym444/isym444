@@ -285,6 +285,26 @@ def build_block(summary, cses, vocab, charts):
     return "\n".join(lines).rstrip() + "\n"
 
 
+def build_json(summary, cses, vocab, charts):
+    """Machine-readable copy of the numbers in the README block, for other sites (e.g. isym.uk)."""
+    by_platform = {s["platform"]: s for s in summary}
+
+    def platform(name):
+        s = by_platform.get(name) or {}
+        return {"solved": s.get("solved"), "rating": s.get("current_rating"), "peak": s.get("max_rating"),
+                "contests": s.get("contests")}
+
+    return {
+        "updated": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+        "atcoder": platform("atcoder"), "codeforces": platform("codeforces"), "themecp": platform("themecp"),
+        "cses": {"solved": cses["solved"], "total": cses["total"]} if cses and cses["total"] else None,
+        "words": {LANGUAGE_NAMES.get(k, k.title()): v["total_incl_pre_anki"]
+                  for k, v in vocab.items() if v["total_incl_pre_anki"] > 0},
+        "usaco": STATIC_FACTS["usaco"], "jlpt": STATIC_FACTS["jlpt"],
+        "charts": sorted(charts),
+    }
+
+
 def splice(text, block):
     head, sep, rest = text.partition(START)
     _, sep2, tail = rest.partition(END)
@@ -346,6 +366,7 @@ def main() -> int:
 
     block = build_block(summary, cses, vocab, charts)
     README.write_text(splice(README.read_text(encoding="utf-8"), block), encoding="utf-8")
+    (OUT / "stats.json").write_text(json.dumps(build_json(summary, cses, vocab, charts), indent=1) + "\n")
     print(f"README stats block updated with {len(charts)} charts")
     return 0
 
