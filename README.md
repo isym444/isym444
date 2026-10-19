@@ -31,19 +31,19 @@ Hobbies: Languages, Classical Music
 Full-stack on a legal tech team: Angular, Spring Boot, Kafka, Kubernetes.
 
 **Medical Doctor · National Health Service** <sub>2021 – 2023</sub><br />
-Cardiology, general surgery, geriatrics, internal medicine, GP and haematology 
-Worked at world-leading St Thomas' and Guy's Hospitals, London
+Cardiology, general surgery, geriatrics, internal medicine, GP and haematology.<br />
+Worked at world-leading St Thomas' and Guy's Hospitals, London.
 
 ## 🛠️ Tech
 
 <p>
   <img src="https://skillicons.dev/icons?i=angular,ts,java,spring,kafka,kubernetes,docker,gitlab,git&perline=9" alt="Day-to-day stack" />
   <br />
-  <img src="https://skillicons.dev/icons?i=py,cpp,kotlin,swift,cs,fastapi,postgres,supabase,godot,unity&perline=10" alt="Also use" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,cs,fastapi,postgres,supabase,godot,unity&perline=10" alt="Also use" />
 </p>
 
 **Day to day:** Angular (TypeScript) · Spring Boot (Java) · Kafka · Kubernetes & Docker · GitLab CI/CD · Git<br />
-**Also:** Python/FastAPI · C++ · Kotlin · Swift · Postgres/Supabase · Godot · Unity · AI-assisted development (Claude, Copilot, GitLab Duo)
+**Also:** Python/FastAPI · C++ · Postgres/Supabase · Godot · Unity · AI-assisted development (Claude, Copilot, GitLab Duo)
 
 ## 🚀 Featured projects
 
