@@ -25,7 +25,7 @@ Born in Mexico, raised in the UK.
 
 Hobbies: Languages, Classical Music
 
-Website: [![isym](isym.uk)]
+Website: [isym.uk](https://isym.uk)
 
 ## 💼 Experience
 
