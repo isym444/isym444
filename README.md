@@ -132,7 +132,7 @@ English (native) · Español (native) · 日本語 (JLPT N1) · Français (B2) �
 <!-- STATS:START -->
 ## 📈 Live stats
 
-<sub>Pulled daily from my self-hosted study-progress API. Last updated 2026-10-25.</sub>
+<sub>Pulled daily from my self-hosted study-progress API. Last updated 2026-10-26.</sub>
 
 | AtCoder | Codeforces | CSES | 日本語 |
 |:---:|:---:|:---:|:---:|
