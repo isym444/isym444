@@ -132,11 +132,11 @@ English (native) · Español (native) · 日本語 (JLPT N1) · Français (B2) �
 <!-- STATS:START -->
 ## 📈 Live stats
 
-<sub>Pulled daily from my self-hosted study-progress API. Last updated 2026-10-27.</sub>
+<sub>Pulled daily from my self-hosted study-progress API. Last updated 2026-10-28.</sub>
 
 | AtCoder | Codeforces | CSES | 日本語 |
 |:---:|:---:|:---:|:---:|
-| **1,162** solved<br>rating **922** (peak 949) | **519** solved<br>rating **1,264** (peak 1,371) | **73** / 400<br>18% of the set | **19,074** words<br>JLPT N1 |
+| **1,163** solved<br>rating **922** (peak 949) | **519** solved<br>rating **1,264** (peak 1,371) | **73** / 400<br>18% of the set | **19,074** words<br>JLPT N1 |
 
 **USACO:** Silver · **ThemeCP virtual rating:** 1,146 over 37 contests
 
