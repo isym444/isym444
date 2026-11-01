@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "atcoder": {
-  "solved": 1167,
-  "rating": 922,
+  "solved": 1172,
+  "rating": 894,
   "peak": 949,
-  "contests": 119
+  "contests": 120
  },
  "codeforces": {
   "solved": 519,
@@ -19,7 +19,7 @@
   "contests": 37
  },
  "cses": {
-  "solved": 75,
+  "solved": 76,
   "total": 400
  },
  "words": {
