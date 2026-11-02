@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "atcoder": {
   "solved": 1172,
   "rating": 894,
@@ -19,12 +19,12 @@
   "contests": 37
  },
  "cses": {
-  "solved": 76,
+  "solved": 77,
   "total": 400
  },
  "words": {
   "Japanese": 19074,
-  "Chinese": 2019
+  "Chinese": 2041
  },
  "usaco": "Silver",
  "jlpt": "N1",
