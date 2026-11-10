@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "atcoder": {
-  "solved": 1172,
+  "solved": 1175,
   "rating": 894,
   "peak": 949,
   "contests": 120
@@ -24,7 +24,7 @@
  },
  "words": {
   "Japanese": 19074,
-  "Chinese": 2064
+  "Chinese": 2069
  },
  "usaco": "Silver",
  "jlpt": "N1",
