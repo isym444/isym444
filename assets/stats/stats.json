@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "atcoder": {
-  "solved": 1177,
-  "rating": 894,
+  "solved": 1181,
+  "rating": 863,
   "peak": 949,
-  "contests": 120
+  "contests": 121
  },
  "codeforces": {
   "solved": 519,
@@ -24,7 +24,7 @@
  },
  "words": {
   "Japanese": 19074,
-  "Chinese": 2082
+  "Chinese": 2094
  },
  "usaco": "Silver",
  "jlpt": "N1",
